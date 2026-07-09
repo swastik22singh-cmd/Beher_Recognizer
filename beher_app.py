@@ -11,7 +11,7 @@ import streamlit as st
 
 from finder import find_beher
 
-st.title("Hindi / Urdu Beher Recognizer")
+st.title(" 🖋️Hindi Beher Recognizer")
 
 text = st.text_area("Enter Shayari")
 
